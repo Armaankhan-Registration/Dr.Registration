@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Registration & Filing Services</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #0066cc;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      padding: 2rem;
+    }
+    .services, .contact {
+      background-color: white;
+      margin: 1rem 0;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    footer {
+      background-color: #004080;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Registration & Filing Services</h1>
+    <p>Your trusted partner for compliance and documentation</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We specialize in offering professional assistance with company registration, GST filing, income tax returns, trademark registration, and other compliance services. Our aim is to simplify the process and help businesses stay focused on growth.</p>
+    </section>
+
+    <section id="services" class="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>GST Registration & Monthly/Quarterly Filing</li>
+        <li>Trademark Registration</li>
+        <li>Udyam/MSME Registration</li>
+        <li>Import Export Code (IEC)</li>
+      </ul>
+    </section>
+
+    <section id="contact" class="contact">
+      <h2>Contact Us</h2>
+      <p>📧 Email: armaanazlan88611@gmail.com</p>
+      <p>📞 Phone: +91-9113279852</p>
+      <p>📍 Address: Your Business Bengaluru, City, State, India</p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Registration & Filing Services. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
